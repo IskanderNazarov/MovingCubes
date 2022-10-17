@@ -742,6 +742,15 @@
      <Reference Include="Unity.VisualScripting.State">
      <HintPath>C:\Users\Alexander\Documents\Work\CreativeSoft\MovingCubes\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
+     <Reference Include="Unity.Recorder.Editor">
+     <HintPath>C:\Users\Alexander\Documents\Work\CreativeSoft\MovingCubes\Library\ScriptAssemblies\Unity.Recorder.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Recorder">
+     <HintPath>C:\Users\Alexander\Documents\Work\CreativeSoft\MovingCubes\Library\ScriptAssemblies\Unity.Recorder.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Recorder.Base">
+     <HintPath>C:\Users\Alexander\Documents\Work\CreativeSoft\MovingCubes\Library\ScriptAssemblies\Unity.Recorder.Base.dll</HintPath>
+     </Reference>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
